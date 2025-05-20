@@ -24,7 +24,14 @@ Here are some ideas to get you started:
 
 - I’m currently open for an Intern or a new job opportunity
 
-<br>
+
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhcGswY251aW96Mm1yYmI0MHlsZjhieXdjdjd6ZTdwbzdwYW5ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxFW7n1NU7E6bwJ5ht/giphy.gif" width = 30px></picture> **Estudios relacionados**
+
+
+- Desarrollo web para comercio electrónico ( 150 horas)
+
+- Programacion web con sofware libre ( 150 horas)
+
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxY21mYXJwbWFubmQxM3J0Y2tma3BhbDRoMGgzdTF3a3NtdXhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 30px></picture> **Lenguajes de programacion**
 
