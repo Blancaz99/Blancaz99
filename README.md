@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </ul>
 
 
-## 🔗 &nbsp;Contact Me 
+### 🔗 &nbsp;Contact Me 
 
 <br>
 
@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div class="copy">
-							<span class="brand">Blanca Zayas</span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
+	<span class="brand">Blanca Zayas</span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
 </div>
