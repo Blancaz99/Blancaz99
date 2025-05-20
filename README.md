@@ -38,10 +38,8 @@ Here are some ideas to get you started:
 
 <ul>  
   <li>Word</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  
+  <li>Canva</li>
+  <li>Photophea</li>
 </ul>
 
 
