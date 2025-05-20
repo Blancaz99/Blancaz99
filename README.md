@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhcGswY251aW96Mm1yYmI0MHlsZjhieXdjdjd6ZTdwbzdwYW5ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxFW7n1NU7E6bwJ5ht/giphy.gif" width = 50px></picture> **About me**
 
 
-- A passionate Self-taught Front-end developer
+- Soy programadora web de HTML , CSS , JS Y PHP
 
-- Currently learning Web Development by Self
+- Currently learning Web Development 
 
 - I’m currently open for an Intern or a new job opportunity
 
