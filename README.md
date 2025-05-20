@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 
 <br>
 
+## 👨‍💻 Programas:
+
+<ul>  
+  <li>Word</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  
+</ul>
+
 
 ### 🔗 &nbsp;Contact Me 
 
