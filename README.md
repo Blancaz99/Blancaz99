@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 <br>
 
 
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxY21mYXJwbWFubmQxM3J0Y2tma3BhbDRoMGgzdTF3a3NtdXhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' width='30'/>  Programas:
-<br><br>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
-
-<br>
 
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxY21mYXJwbWFubmQxM3J0Y2tma3BhbDRoMGgzdTF3a3NtdXhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' width='30'/>  Programming Languages:
 <br><br>
