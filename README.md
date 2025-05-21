@@ -12,7 +12,7 @@
 - I’m currently open for new job opportunity
 
 
-## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhcGswY251aW96Mm1yYmI0MHlsZjhieXdjdjd6ZTdwbzdwYW5ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxFW7n1NU7E6bwJ5ht/giphy.gif" width = 30px></picture> **Related studies**
+## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo2ZGlhaGZmczFlMzNqcXZwN2hycjk0OXZpNjF5dW0wdHg0eHQxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oBwBVLGoLteCP2kyD/giphy.gif" width = 30px></picture> **Related studies**
 
 
 - Web development for e-commerce (150 hours)
