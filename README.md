@@ -1,45 +1,32 @@
 <h1 align="center">Hi I'm Blanca. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> </h1>
 <br>
 
-<!--
-**Blancaz99/Blancaz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhcGswY251aW96Mm1yYmI0MHlsZjhieXdjdjd6ZTdwbzdwYW5ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxFW7n1NU7E6bwJ5ht/giphy.gif" width = 30px></picture> **Sobre mi**
 
 
-- Soy programadora web de PHP
+- I am a PHP web programmer
 
-- Actualmente estoy aprendiendo a programar en HTML , CSS y JS
+- I am currently learning to program in HTML, CSS and JS
 
-- I’m currently open for an Intern or a new job opportunity
-
-
-## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhcGswY251aW96Mm1yYmI0MHlsZjhieXdjdjd6ZTdwbzdwYW5ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxFW7n1NU7E6bwJ5ht/giphy.gif" width = 30px></picture> **Estudios relacionados**
+- I’m currently open for new job opportunity
 
 
-- Desarrollo web para comercio electrónico ( 150 horas)
-
-- Programacion web con sofware libre ( 150 horas)
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhcGswY251aW96Mm1yYmI0MHlsZjhieXdjdjd6ZTdwbzdwYW5ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxFW7n1NU7E6bwJ5ht/giphy.gif" width = 30px></picture> **Related studies**
 
 
-## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxY21mYXJwbWFubmQxM3J0Y2tma3BhbDRoMGgzdTF3a3NtdXhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 30px></picture> **Lenguajes de programacion**
+- Web development for e-commerce (150 hours)
+
+- Web programming with free software (150 hours)
+
+
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxY21mYXJwbWFubmQxM3J0Y2tma3BhbDRoMGgzdTF3a3NtdXhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 30px></picture> **Programming languages**
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='30'/>
 <br>
 
-## 👨‍💻 Programas:
+## 👨‍💻 Programs:
 
 <ul>  
   <li>Word</li>
